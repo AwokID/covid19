@@ -3,7 +3,7 @@
 Melihat data tentang covid-19 di Indonesia
 
 ### Screenshots
-<img src="https://l.top4top.io/p_1843k24f30.png">
+<img src="demo.png">
 
 ### Installation
 
