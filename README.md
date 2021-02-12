@@ -11,6 +11,6 @@ Melihat data tentang covid-19 di Indonesia
 - apt install python
 - apt install git
 - pip install requests
-- git clone https://github.com/AwokID/covid19
+- git clone https://github.com/DavitID/covid19
 - cd covid19
 - python covid19.py
